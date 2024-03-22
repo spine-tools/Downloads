@@ -1,4 +1,4 @@
-name: Generate REAMDE.md
+name: Generate README.md
 
 on: workflow_dispatch
 
