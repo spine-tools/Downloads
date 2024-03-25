@@ -1,6 +1,9 @@
 name: Generate README.md
 
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [artifact_available]
 
 jobs:
   generate:
