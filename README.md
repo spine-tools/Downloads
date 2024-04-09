@@ -21,6 +21,7 @@ A separate Python installation is recommended if you need a full-blown Python fo
 
 Consider taking backups of your projects and Spine databases if you are upgrading from version 0.7.
 
+- [Spine Toolbox 0.8.0.dev560+g876db30a.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/8611419894/artifacts/1396774649) (2024-04-09)
 - [Spine Toolbox 0.8.0.dev543+g55336b12.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/8433946592/artifacts/1358742135) (2024-03-26)
 - [Spine Toolbox 0.8.0.dev541+g95298067.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/8420144876/artifacts/1355563831) (2024-03-25)
 - [Spine Toolbox 0.8.0.dev531+gaf689b78.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/8390336939/artifacts/1349969366) (2024-03-22)
