@@ -4,6 +4,9 @@ Downloads
 
 # Spine Toolbox
 
+For other installation methods,
+see Toolbox [installation](https://github.com/spine-tools/Spine-Toolbox?tab=readme-ov-file#installation).
+
 ## Unstable bundles for Windows
 
 Unzip and go! Bundles are zip files that contain ``spinetoolbox.exe`` executable

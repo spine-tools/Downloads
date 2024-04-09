@@ -75,6 +75,12 @@ def build_link_list_items(artifacts: list[Artifact]) -> list[str]:
 link_items = build_link_list_items(request_artifacts())
 readme = mdutils.MdUtils(file_name="README.md", title="Downloads")
 readme.new_header(level=1, title="Spine Toolbox")
+readme.write(
+"""
+For other installation methods,
+see Toolbox [installation](https://github.com/spine-tools/Spine-Toolbox?tab=readme-ov-file#installation).
+"""
+)
 readme.new_header(level=2, title="Unstable bundles for Windows")
 readme.write(
 """
