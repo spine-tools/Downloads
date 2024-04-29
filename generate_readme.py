@@ -47,7 +47,7 @@ def request_artifacts() -> list[Artifact]:
             if response_artifact["expired"] or not response_artifact["name"].startswith("Spine Toolbox "):
                 continue
             workflow_run = response_artifact["workflow_run"]
-            if workflow_run["head_branch"] != "0.8-dev":
+            if workflow_run["head_branch"] != "master":
                 continue
             name = response_artifact["name"]
             artefact_id = response_artifact["id"]
@@ -75,18 +75,12 @@ def build_link_list_items(artifacts: list[Artifact]) -> list[str]:
 link_items = build_link_list_items(request_artifacts())
 readme = mdutils.MdUtils(file_name="README.md", title="Downloads")
 readme.new_header(level=1, title="Spine Toolbox")
-readme.write(
-"""
-For other installation methods,
-see Toolbox [installation](https://github.com/spine-tools/Spine-Toolbox?tab=readme-ov-file#installation).
-"""
-)
-readme.new_header(level=2, title="Unstable bundles for Windows")
+readme.new_header(level=2, title="Relocatable bundles for Windows")
 readme.write(
 """
 Unzip and go! Bundles are zip files that contain ``spinetoolbox.exe`` executable
 and everything you need to run Spine Toolbox.
-They can be unzipped anywhere on your system; no other installation step is necessary.
+They can be unzipped anywhere on your system; no other installation steps are necessary.
 """
 )
 readme.write(
@@ -96,10 +90,16 @@ Note, that to keep the interpreter light-weight, it is missing components like `
 A separate Python installation is recommended if you need a full-blown Python for your Tools.
 """
 )
+readme.write(
+"""
+For other installation methods,
+see Toolbox [installation](https://github.com/spine-tools/Spine-Toolbox?tab=readme-ov-file#installation).
+"""
+)
 readme.new_header(level=3, title="0.8 (development version)")
 readme.write(
 """
-Consider taking backups of your projects and Spine databases if you are upgrading from version 0.7.
+Consider taking backups of your projects and Spine databases if you are upgrading from version 0.7.x.
 """
 )
 readme.new_list(link_items)
