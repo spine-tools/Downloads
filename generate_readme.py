@@ -96,7 +96,7 @@ For other installation methods,
 see Toolbox [installation](https://github.com/spine-tools/Spine-Toolbox?tab=readme-ov-file#installation).
 """
 )
-readme.new_header(level=3, title="0.8 (development version)")
+readme.new_header(level=3, title="Development snapshots")
 readme.write(
 """
 Consider taking backups of your projects and Spine databases if you are upgrading from version 0.7.x.
