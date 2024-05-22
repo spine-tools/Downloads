@@ -61,7 +61,7 @@ def request_artifacts() -> list[Artifact]:
         response = raw_response.json()
         response_artifacts = response["artifacts"]
         for response_artifact in response_artifacts:
-            if response_artifact["expired"] or not response_artifact["name"].startswith("Spine-Toolbox-win "):
+            if response_artifact["expired"] or not response_artifact["name"].startswith("Spine-Toolbox-win"):
                 continue
             workflow_run = response_artifact["workflow_run"]
             if workflow_run["head_branch"] != "master":
