@@ -27,7 +27,3 @@ Consider taking backups of your projects and Spine databases if you are upgradin
 
 ### Development snapshots
 
-- [Spine Toolbox 0.8.1.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/9091217350/artifacts/1503996289) (2024-05-15)
-- [Spine Toolbox 0.9.0.dev20+gc291307c.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/9076990372/artifacts/1500451137) (2024-05-14)
-- [Spine Toolbox 0.9.0.dev11+g08faff31.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/8982971897/artifacts/1479608877) (2024-05-07)
-- [Spine Toolbox 0.8.0.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/8892474721/artifacts/1459890009) (2024-04-30)
