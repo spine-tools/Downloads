@@ -67,6 +67,8 @@ def request_artifacts() -> list[Artifact]:
             if workflow_run["head_branch"] != "master":
                 continue
             name = response_artifact["name"]
+            if "dev" not in name:
+                continue
             artefact_id = response_artifact["id"]
             workflow_id = workflow_run["id"]
             download_url = f"https://github.com/spine-tools/Spine-Toolbox/actions/runs/{workflow_id}/artifacts/{artefact_id}"
