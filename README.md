@@ -31,6 +31,7 @@ Consider taking backups of your projects and Spine databases if you are upgradin
 
 ### Development snapshots
 
+- [Spine-Toolbox-win-0.9.0.dev66+gcdec94b2.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/10367204728/artifacts/1805803329) (2024-08-13)
 - [Spine-Toolbox-win-0.9.0.dev48+g1b51b6a3.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/10263936790/artifacts/1780252221) (2024-08-06)
 - [Spine-Toolbox-win-0.9.0.dev47+gee3bc458.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/10159775913/artifacts/1754783703) (2024-07-30)
 - [Spine-Toolbox-win-0.9.0.dev45+gbcd4188c.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/10056367822/artifacts/1729746306) (2024-07-23)
@@ -40,4 +41,3 @@ Consider taking backups of your projects and Spine databases if you are upgradin
 - [Spine-Toolbox-win-0.9.0.dev7+g005c0dbf.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/9659927413/artifacts/1635312887) (2024-06-25)
 - [Spine-Toolbox-win-0.9.0.dev5+g64a369a5.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/9562523379/artifacts/1612160199) (2024-06-18)
 - [Spine-Toolbox-win-0.9.0.dev14+g71da77ca.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/9463064169/artifacts/1588975148) (2024-06-11)
-- [Spine-Toolbox-win-0.9.0.dev6+g928c84d7.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/9364636926/artifacts/1566103651) (2024-06-04)
