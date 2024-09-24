@@ -23,10 +23,11 @@ Consider taking backups of your projects and Spine databases if you are upgradin
 
 #### Latest
 
-- [Spine-Toolbox-win-0.8.3.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.8.3/Spine-Toolbox-win-0.8.3.zip) (2024-08-22)
+- [Spine-Toolbox-win-0.8.4.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.8.4/Spine-Toolbox-win-0.8.4.zip) (2024-09-24)
 
 #### Older releases
 
+- [Spine-Toolbox-win-0.8.3.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.8.3/Spine-Toolbox-win-0.8.3.zip) (2024-08-22)
 - [Spine-Toolbox-win-0.8.2.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.8.2/Spine-Toolbox-win-0.8.2.zip) (2024-05-30)
 - [Spine-Toolbox-win-0.8.1.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.8.1/Spine-Toolbox-win-0.8.1.zip) (2024-05-14)
 
