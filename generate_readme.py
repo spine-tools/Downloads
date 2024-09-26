@@ -67,7 +67,7 @@ def request_artifacts() -> list[Artifact]:
             if workflow_run["head_branch"] != "master":
                 continue
             name = response_artifact["name"]
-            if "dev" not in name:
+            if "dev" not in name or name in {a.name for a in artifacts}:
                 continue
             artefact_id = response_artifact["id"]
             workflow_id = workflow_run["id"]

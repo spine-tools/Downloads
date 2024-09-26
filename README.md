@@ -34,12 +34,12 @@ Consider taking backups of your projects and Spine databases if you are upgradin
 ### Development snapshots
 
 - [Spine-Toolbox-win-0.9.0.dev9+g6cdd3a33.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/11010989591/artifacts/1970911848) (2024-09-24)
-- [Spine-Toolbox-win-0.9.0.dev9+g6cdd3a33.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/10900312959/artifacts/1942036254) (2024-09-17)
-- [Spine-Toolbox-win-0.9.0.dev9+g6cdd3a33.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/10789710569/artifacts/1913624395) (2024-09-10)
 - [Spine-Toolbox-win-0.9.0.dev1+ge7abb925.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/10680278682/artifacts/1885393492) (2024-09-03)
-- [Spine-Toolbox-win-0.9.0.dev1+ge7abb925.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/10575451790/artifacts/1858973888) (2024-08-27)
 - [Spine-Toolbox-win-0.9.0.dev70+gf593c2cf.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/10468968249/artifacts/1831613165) (2024-08-20)
 - [Spine-Toolbox-win-0.9.0.dev66+gcdec94b2.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/10367204728/artifacts/1805803329) (2024-08-13)
 - [Spine-Toolbox-win-0.9.0.dev48+g1b51b6a3.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/10263936790/artifacts/1780252221) (2024-08-06)
 - [Spine-Toolbox-win-0.9.0.dev47+gee3bc458.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/10159775913/artifacts/1754783703) (2024-07-30)
 - [Spine-Toolbox-win-0.9.0.dev45+gbcd4188c.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/10056367822/artifacts/1729746306) (2024-07-23)
+- [Spine-Toolbox-win-0.9.0.dev42+g070f26f3.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/9954274567/artifacts/1705584181) (2024-07-16)
+- [Spine-Toolbox-win-0.9.0.dev30+gd56a0eb8.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/9854481839/artifacts/1681401601) (2024-07-09)
+- [Spine-Toolbox-win-0.9.0.dev17+gc09d43d0.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/9758430884/artifacts/1658917143) (2024-07-02)
