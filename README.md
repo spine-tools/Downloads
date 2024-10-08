@@ -23,10 +23,11 @@ Consider taking backups of your projects and Spine databases if you are upgradin
 
 #### Latest
 
-- [Spine-Toolbox-win-0.8.4.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.8.4/Spine-Toolbox-win-0.8.4.zip) (2024-09-24)
+- [Spine-Toolbox-win-0.8.5.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.8.5/Spine-Toolbox-win-0.8.5.zip) (2024-10-07)
 
 #### Older releases
 
+- [Spine-Toolbox-win-0.8.4.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.8.4/Spine-Toolbox-win-0.8.4.zip) (2024-09-24)
 - [Spine-Toolbox-win-0.8.3.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.8.3/Spine-Toolbox-win-0.8.3.zip) (2024-08-22)
 - [Spine-Toolbox-win-0.8.2.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.8.2/Spine-Toolbox-win-0.8.2.zip) (2024-05-30)
 - [Spine-Toolbox-win-0.8.1.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.8.1/Spine-Toolbox-win-0.8.1.zip) (2024-05-14)
@@ -42,4 +43,3 @@ Consider taking backups of your projects and Spine databases if you are upgradin
 - [Spine-Toolbox-win-0.9.0.dev47+gee3bc458.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/10159775913/artifacts/1754783703) (2024-07-30)
 - [Spine-Toolbox-win-0.9.0.dev45+gbcd4188c.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/10056367822/artifacts/1729746306) (2024-07-23)
 - [Spine-Toolbox-win-0.9.0.dev42+g070f26f3.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/9954274567/artifacts/1705584181) (2024-07-16)
-- [Spine-Toolbox-win-0.9.0.dev30+gd56a0eb8.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/9854481839/artifacts/1681401601) (2024-07-09)
