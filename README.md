@@ -11,15 +11,13 @@ and everything you need to run Spine Toolbox.
 They can be unzipped anywhere on your system; no other installation steps are necessary.
 
 The bundle also comes with a Python interpreter to help you get started.
-Note, that to keep the interpreter light-weight, it is missing components like ``pip`` and ``venv``.
-A separate Python installation is recommended if you need a full-blown Python for your Tools.
+Note, that to keep the interpreter light-weight, it is missing some key components for serious work.
+_A separate Python installation is recommended if you need a full-blown Python for your Tools._
 
 For other installation methods,
 see Toolbox [installation](https://github.com/spine-tools/Spine-Toolbox?tab=readme-ov-file#installation).
 
 ### Releases
-
-Consider taking backups of your projects and Spine databases if you are upgrading from version 0.7.x.
 
 #### Latest
 

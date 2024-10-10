@@ -125,8 +125,8 @@ They can be unzipped anywhere on your system; no other installation steps are ne
 readme.write(
 """
 The bundle also comes with a Python interpreter to help you get started.
-Note, that to keep the interpreter light-weight, it is missing components like ``pip`` and ``venv``.
-A separate Python installation is recommended if you need a full-blown Python for your Tools.
+Note, that to keep the interpreter light-weight, it is missing some key components for serious work.
+_A separate Python installation is recommended if you need a full-blown Python for your Tools._
 """
 )
 readme.write(
@@ -136,11 +136,6 @@ see Toolbox [installation](https://github.com/spine-tools/Spine-Toolbox?tab=read
 """
 )
 readme.new_header(level=3, title="Releases")
-readme.write(
-"""
-Consider taking backups of your projects and Spine databases if you are upgrading from version 0.7.x.
-"""
-)
 readme.new_header(level=4, title="Latest")
 readme.new_list([release_link_items[0]])
 if len(release_link_items) > 1:
