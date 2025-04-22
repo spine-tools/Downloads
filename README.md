@@ -37,6 +37,7 @@ see Toolbox [installation](https://github.com/spine-tools/Spine-Toolbox?tab=read
 
 ### Development snapshots
 
+- [Spine-Toolbox-win-0.10.0.dev12+gd833b1206.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/14591507556/artifacts/2984678795) (2025-04-22)
 - [Spine-Toolbox-win-0.10.0.dev11+geb87c8ffd.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/14466139846/artifacts/2946721011) (2025-04-15)
 - [Spine-Toolbox-win-0.10.0.dev3+g7143ead89.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/14192212566/artifacts/2858024212) (2025-04-01)
 - [Spine-Toolbox-win-0.10.0.dev36+g5bb7b4dae.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/14056169113/artifacts/2814364196) (2025-03-25)
