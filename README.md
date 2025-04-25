@@ -21,10 +21,11 @@ see Toolbox [installation](https://github.com/spine-tools/Spine-Toolbox?tab=read
 
 #### Latest
 
-- [Spine-Toolbox-win-0.9.5.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.9.5/Spine-Toolbox-win-0.9.5.zip) (2025-03-31)
+- [Spine-Toolbox-win-0.9.6.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.9.6/Spine-Toolbox-win-0.9.6.zip) (2025-04-24)
 
 #### Older releases
 
+- [Spine-Toolbox-win-0.9.5.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.9.5/Spine-Toolbox-win-0.9.5.zip) (2025-03-31)
 - [Spine-Toolbox-win-0.9.3.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.9.3/Spine-Toolbox-win-0.9.3.zip) (2025-02-17)
 - [Spine-Toolbox-win-0.9.2.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.9.2/Spine-Toolbox-win-0.9.2.zip) (2025-01-07)
 - [Spine-Toolbox-win-0.9.1.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.9.1/Spine-Toolbox-win-0.9.1.zip) (2024-11-04)
