@@ -18,7 +18,7 @@ For other installation methods,
 see Toolbox [installation](https://github.com/spine-tools/Spine-Toolbox?tab=readme-ov-file#installation).
 
 ### Releases
-
+*Use version 0.9.3. Later versions do not work due to an issue with SQLAlchemy.*
 #### Latest
 
 - [Spine-Toolbox-win-0.9.6.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.9.6/Spine-Toolbox-win-0.9.6.zip) (2025-04-24)
