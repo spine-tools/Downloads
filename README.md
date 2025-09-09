@@ -18,7 +18,7 @@ For other installation methods,
 see Toolbox [installation](https://github.com/spine-tools/Spine-Toolbox?tab=readme-ov-file#installation).
 
 ### Releases
-*Use version 0.9.3. Later versions do not work due to an issue with SQLAlchemy.*
+*Versions from 0.9.4 to 0.10.1 do not work due to an issue with SQLAlchemy.*
 #### Latest
 
 - [Spine-Toolbox-win-0.10.1.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.10.1/Spine-Toolbox-win-0.10.1.zip) (2025-07-21)
@@ -38,7 +38,8 @@ see Toolbox [installation](https://github.com/spine-tools/Spine-Toolbox?tab=read
 - [Spine-Toolbox-win-0.8.1.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.8.1/Spine-Toolbox-win-0.8.1.zip) (2024-05-14)
 
 ### Development snapshots
-
+Weekly snapshots of what the future may look like. Possibly buggy. You need a GitHub account to download these.
+- [Spine-Toolbox-win-0.11.0.dev2+g914eec88e.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/17578282944/artifacts/3962795484) (2025-09-09)
 - [Spine-Toolbox-win-0.11.0.dev14+gf2613a743.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/17399378342/artifacts/3904571984) (2025-09-02)
 - [Spine-Toolbox-win-0.11.0.dev12+gdcc8e6c4e.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/17155619396/artifacts/3828363858) (2025-08-22)
 - [Spine-Toolbox-win-0.11.0.dev8+gaac854141.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/16904951656/artifacts/3743253326) (2025-08-12)
