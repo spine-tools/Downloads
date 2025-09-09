@@ -137,7 +137,7 @@ see Toolbox [installation](https://github.com/spine-tools/Spine-Toolbox?tab=read
 )
 readme.new_header(level=3, title="Releases")
 readme.write(
-"Use version 0.9.3. Later versions do not work due to an issue with SQLAlchemy.",
+"Versions from 0.9.4 to 0.10.1 do not work due to an issue with SQLAlchemy.",
 bold_italics_code="i"
 )
 readme.new_header(level=4, title="Latest")
@@ -146,5 +146,7 @@ if len(release_link_items) > 1:
     readme.new_header(level=4, title="Older releases")
     readme.new_list(release_link_items[1:])
 readme.new_header(level=3, title="Development snapshots")
+readme.write(
+"Weekly snapshots of what the future may look like. Possibly buggy. You need a GitHub account to download these.")
 readme.new_list(snapshot_link_items)
 readme.create_md_file()
