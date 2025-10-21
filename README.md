@@ -40,6 +40,7 @@ see Toolbox [installation](https://github.com/spine-tools/Spine-Toolbox?tab=read
 
 ### Development snapshots
 Weekly snapshots of what the future may look like. Possibly buggy. You need a GitHub account to download these.
+- [Spine-Toolbox-win-0.11.0.dev49+gfdbec3981.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/18679489378/artifacts/4326384143) (2025-10-21)
 - [Spine-Toolbox-win-0.11.0.dev40+gd28dd466e.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/18492095353/artifacts/4263464599) (2025-10-14)
 - [Spine-Toolbox-win-0.11.0.dev30+g8655f91b4.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/18308340224/artifacts/4201851126) (2025-10-07)
 - [Spine-Toolbox-win-0.11.0.dev20+g4fb167416.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/18125403704/artifacts/4141676913) (2025-09-30)
@@ -49,4 +50,3 @@ Weekly snapshots of what the future may look like. Possibly buggy. You need a Gi
 - [Spine-Toolbox-win-0.11.0.dev12+gdcc8e6c4e.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/17155619396/artifacts/3828363858) (2025-08-22)
 - [Spine-Toolbox-win-0.11.0.dev8+gaac854141.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/16904951656/artifacts/3743253326) (2025-08-12)
 - [Spine-Toolbox-win-0.11.0.dev4+g8d2af0505.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/16746495966/artifacts/3689640634) (2025-08-05)
-- [Spine-Toolbox-win-0.11.0.dev2+gcde752a0d.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/16440602174/artifacts/3585812718) (2025-07-22)
