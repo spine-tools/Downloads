@@ -21,10 +21,11 @@ see Toolbox [installation](https://github.com/spine-tools/Spine-Toolbox?tab=read
 *Versions from 0.9.4 to 0.10.1 do not work due to an issue with SQLAlchemy.*
 #### Latest
 
-- [Spine-Toolbox-win-0.10.2.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.10.2/Spine-Toolbox-win-0.10.2.zip) (2025-09-09)
+- [Spine-Toolbox-win-0.10.3.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.10.3/Spine-Toolbox-win-0.10.3.zip) (2025-10-29)
 
 #### Older releases
 
+- [Spine-Toolbox-win-0.10.2.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.10.2/Spine-Toolbox-win-0.10.2.zip) (2025-09-09)
 - [Spine-Toolbox-win-0.10.1.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.10.1/Spine-Toolbox-win-0.10.1.zip) (2025-07-21)
 - [Spine-Toolbox-win-0.9.6.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.9.6/Spine-Toolbox-win-0.9.6.zip) (2025-04-24)
 - [Spine-Toolbox-win-0.9.5.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.9.5/Spine-Toolbox-win-0.9.5.zip) (2025-03-31)
