@@ -21,10 +21,11 @@ see Toolbox [installation](https://github.com/spine-tools/Spine-Toolbox?tab=read
 *Versions from 0.9.4 to 0.10.1 do not work due to an issue with SQLAlchemy.*
 #### Latest
 
-- [Spine-Toolbox-win-0.10.6.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.10.6/Spine-Toolbox-win-0.10.6.zip) (2026-03-13)
+- [Spine-Toolbox-win-0.10.7.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.10.7/Spine-Toolbox-win-0.10.7.zip) (2026-04-07)
 
 #### Older releases
 
+- [Spine-Toolbox-win-0.10.6.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.10.6/Spine-Toolbox-win-0.10.6.zip) (2026-03-13)
 - [Spine-Toolbox-win-0.10.5.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.10.5/Spine-Toolbox-win-0.10.5.zip) (2026-01-23)
 - [Spine-Toolbox-win-0.10.4.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.10.4/Spine-Toolbox-win-0.10.4.zip) (2025-11-14)
 - [Spine-Toolbox-win-0.10.3.zip](https://github.com/spine-tools/Spine-Toolbox/releases/download/0.10.3/Spine-Toolbox-win-0.10.3.zip) (2025-10-29)
@@ -53,4 +54,3 @@ Weekly snapshots of what the future may look like. Possibly buggy. You need a Gi
 - [Spine-Toolbox-win-0.11.0.dev18+g238a4b69b.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/22094196245/artifacts/5537063247) (2026-02-17)
 - [Spine-Toolbox-win-0.11.0.dev92+g5790bd335.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/21166843192/artifacts/5187563098) (2026-01-20)
 - [Spine-Toolbox-win-0.11.0.dev83+gf6d098cdc.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/20951999895/artifacts/5110058324) (2026-01-13)
-- [Spine-Toolbox-win-0.11.0.dev77+g12395a7ac.zip](https://github.com/spine-tools/Spine-Toolbox/actions/runs/20744336848/artifacts/5035086137) (2026-01-06)
